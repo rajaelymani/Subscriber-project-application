@@ -113,7 +113,11 @@ L'implémentation des 6 API pour les 3 interfaces
 
 ### test 
 
-#### API 
+Deux parties des tests unitaires : 
++ Tests des fonctionalités du repository
++ Tests des API 
+
+
 
 
 
